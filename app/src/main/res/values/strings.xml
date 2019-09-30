@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red_fragment">Red Fragment</string>
+    <string name="blue_fragment">Blue Fragment</string>
+    <string name="isihands">The handstand push-up (press-up) - also called the vertical push-up (press-up) or the inverted push-up (press-up) also called "commandos"- is a type of push-up exercise where the body is positioned in a handstand. For a true handstand, the exercise is performed free-standing, held in the air. To prepare the strength until one has built adequate balance</string>
+    <string name="isidips">Untuk posisi awal, duduklah di kursi. lalu gerakkan pinggul Anda dari kursi dengan tangan memegang ujung kursi. Perlahan tekuk dan regangkan lengan untuk membuat tubuh Anda naik dan turun. ini adalah latihan yang bagus untuk trisep</string>
+    <string name="isipush">Berbaring tengkurap di tanah dengan tangan menopang tubuh Anda. jaga agar tubuh Anda tetap lurus sambil mengangkat dan menurunkan tubuh Anda dengan lengan Anda. Latihan ini bekerja di dada, bahu, trisep, punggung, dan kaki</string>
 </resources>
